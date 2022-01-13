@@ -11,3 +11,6 @@ import 'package:flavor_example/bootstrap.dart';
 void main() {
   bootstrap(() => const App());
 }
+
+//this is added from main_sub
+
